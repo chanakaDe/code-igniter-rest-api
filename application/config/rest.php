@@ -208,7 +208,7 @@ $config['rest_ip_whitelist_enabled'] = TRUE;
 | 127.0.0.1 and 0.0.0.0 are allowed by default
 |
 */
-$config['rest_ip_whitelist'] = '';
+$config['rest_ip_whitelist'] = '192.168.1.106';
 
 /*
 |--------------------------------------------------------------------------
